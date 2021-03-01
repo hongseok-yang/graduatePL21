@@ -37,7 +37,7 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 #### Place and Time
 
 * Place: ZOOM. 
-* Q&A sessions: 1:00pm - 2:30pm on Wednesday (nearly) every week. Look at "5. Tentative Plan".
+* Q&A sessions: 1:00pm - 2:15pm on Wednesday (nearly) every week. Look at "5. Tentative Plan".
 * In-class oral tests: Four sessions on chosen Mondays, with two scheduled during the mid-term and final exam periods. Look at "4. In-class Oral Tests".
 * Recorded lectures: Online lectures available from Youtube. The schedule to watch these lectures and the links to them can be found in "5. Tentative Plan".
 
@@ -53,14 +53,14 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 We will run four in-class oral tests using ZOOM. During these tests, students will be randomly chosen and asked questions about topics covered by the course. We allocate 7.5% of the total marks of the course to each test. If a student does not attend one of the tests, she or he will get 0 for that test. The four tests will be scheduled on the following dates:
 
-* 03/29(Mon) - In-class oral test at ZOOM from 1:00pm - 2:30pm.
+* 03/29(Mon) - In-class oral test at ZOOM from 1:00pm - 2:15pm.
 * 04/19(Mon) (Midterm Exam Week) - In-class oral test at ZOOM from 1:00pm - 2:30pm.
-* 05/17(Mon) - In-class oral test at ZOOM from 1:00pm - 2:30pm.
+* 05/17(Mon) - In-class oral test at ZOOM from 1:00pm - 2:15pm.
 * 06/14(Mon) (Final Exam Week) - In-class oral test at ZOOM from 1:00pm - 2:30pm.
 
 We adopt the following policy for these tests.
 
-1. We do attendance check at 1:30pm, but if a student is called before this attendence check but is absent, she or he will get 0.
+1. We do attendance check at 1:30pm, but if a student is asked a question before this attendence check but is absent, she or he will be regarded as having missed the test and get 0.
 2. In these tests, students will have to answer questions using their microphones. Also, they will have to 
 turn on their cameras, at least when we do attendance check. Thus, students are strongly advised to ensure that 
 their microphones and cameras work properly before these oral tests. If a student cannot use a microphone and a camera 
@@ -71,7 +71,7 @@ and arrange a way to participate in the test.
 ## 5. Tentative Plan
 
 * 03/01(Mon) - __**NO ZOOM MEETING.**__ National Holiday.
-* 03/03(Wed) - __**[ZOOM Lecture]**__ Introduction. 
+* 03/03(Wed) - __**[ZOOM Lecture]**__ Introduction. ([slides](https://github.com/hongseok-yang/graduatePL21/blob/master/Lectures/Lecture1/Lecture1.pdf)).
 * 03/03-03/10 - Predicate Logic (Ch1). 
   * Watch two videos: ([video1](https://youtu.be/EN954CkQmkY), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board3.png)) and ([video2](https://youtu.be/1REGT3U9Nxs), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board3.png), [whiteboard4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board4.png)). 
   * 03/10(Wed) - __**[Q&A]**__ ZOOM Q&A session.
