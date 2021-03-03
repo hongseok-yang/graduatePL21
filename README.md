@@ -70,8 +70,8 @@ and arrange a way to participate in the test.
 
 ## 5. Tentative Plan
 
-* 03/01(Mon) - __**NO ZOOM MEETING.**__ National Holiday.
-* 03/03(Wed) - __**[ZOOM Lecture]**__ Introduction. ([slides](https://github.com/hongseok-yang/graduatePL21/blob/master/Lectures/Lecture1/Lecture1.pdf)).
+* 03/01(Mon) - __**NO ZOOM MEETING.**__ National Holiday. 
+* 03/03(Wed) - __**[ZOOM Lecture]**__ Introduction. ([video](https://youtu.be/G8OPjofv3-s), [slides](https://github.com/hongseok-yang/graduatePL21/blob/master/Lectures/Lecture1/Lecture1.pdf)).
 * 03/03-03/10 - Predicate Logic (Ch1). 
   * Watch two videos: ([video1](https://youtu.be/EN954CkQmkY), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep2Board3.png)) and ([video2](https://youtu.be/1REGT3U9Nxs), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board3.png), [whiteboard4](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture2/Sep7Board4.png)). 
   * 03/10(Wed) - __**[Q&A]**__ ZOOM Q&A session.
