@@ -8,6 +8,12 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [March 15] [Homework1](https://github.com/hongseok-yang/graduatePL21/blob/master/Homework/Homework1/homework1-questions.pdf) is out.
+
+The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 31 March 2021 (Wednesday).
+
+We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
+
 #### [February 21] Policy for handling late submissions.
 
 We will adopt the following scheme for handling late submissions for homework assignments and critical surveys. The scheme assumes that the total marks are 100.
@@ -48,6 +54,8 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 ## 3. Homework
 
 Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
+
+* [Homework1](https://github.com/hongseok-yang/graduatePL21/blob/master/Homework/Homework1/homework1-questions.pdf) - Deadline: 6:00pm on 31 March 2021 (Monday).
 
 ## 4. In-class Oral Tests
 
