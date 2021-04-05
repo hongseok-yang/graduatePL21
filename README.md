@@ -62,7 +62,7 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 
 Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
 
-* [Homework1](https://github.com/hongseok-yang/graduatePL21/blob/master/Homework/homework1-questions.pdf) - Deadline: 6:00pm on 31 March 2021 (Monday).
+* [Homework1](https://github.com/hongseok-yang/graduatePL21/blob/master/Homework/homework1-questions.pdf) - Deadline: 6:00pm on 31 March 2021 (Wednesday).
 * [Homework2](https://github.com/hongseok-yang/graduatePL21/blob/master/Homework/homework2-questions.pdf) - Deadline: 6:00pm on 23 April 2021 (Friday).
 
 ## 4. In-class Oral Tests
@@ -105,7 +105,7 @@ and arrange a way to participate in the test.
 * 04/07-04/14 - Failure, Input-Output, and Continuation (Ch5). 
   * Watch three videos: ([video1](https://youtu.be/durHTwanvWc), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct7Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct7Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct7Board3.png)), ([video2](https://youtu.be/OcVJga8ya3Y), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct12Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct12Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct12Board3.png)), and ([video3](https://youtu.be/KfZzDk8QYn8), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct14Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct14Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture5/Oct14Board3.png)).
   * 04/14(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 04/19-04/28 - Transition Semantics (Ch6) and An Introduction to Category Theory (Tennent Ch8). 
+* 04/14-04/28 - Transition Semantics (Ch6) and An Introduction to Category Theory (Tennent Ch8). 
   * Watch two videos: ([video1](https://youtu.be/v7YR2ZaTon8), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/Oct26Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/Oct26Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture6/Oct26Board3.png)) and ([video2](https://youtu.be/61M3KFwQ2uA), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/Oct28Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/Oct28Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture7/Oct28Board3.png)).
   * 04/19(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch3 and Ch5.
   * 04/21(Wed) - __**NO ZOOM MEETING.**__ Midterm Exam Period.
