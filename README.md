@@ -8,6 +8,12 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [May 18] [Homework4](https://github.com/hongseok-yang/graduatePL21/blob/master/Homework/homework4-questions.pdf) is out.
+
+The homework assignment 4 is out. Submit your solutions in KLMS by 6:00pm on 4 June 2021 (Friday).
+
+We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
+
 #### [May 5] [Homework3](https://github.com/hongseok-yang/graduatePL21/blob/master/Homework/homework3-questions.pdf) is out.
 
 The homework assignment 3 is out. Submit your solutions in KLMS by 6:00pm on 26 May 2021 (Wednesday).
@@ -71,6 +77,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * [Homework1](https://github.com/hongseok-yang/graduatePL21/blob/master/Homework/homework1-questions.pdf) - Deadline: 6:00pm on 31 March 2021 (Wednesday).
 * [Homework2](https://github.com/hongseok-yang/graduatePL21/blob/master/Homework/homework2-questions.pdf) - Deadline: 6:00pm on 23 April 2021 (Friday).
 * [Homework3](https://github.com/hongseok-yang/graduatePL21/blob/master/Homework/homework3-questions.pdf) - Deadline: 6:00pm on 26 May 2021 (Wednesday).
+* [Homework4](https://github.com/hongseok-yang/graduatePL21/blob/master/Homework/homework4-questions.pdf) - Deadline: 6:00pm on 4 June 2021 (Friday).
 
 ## 4. In-class Oral Tests
 
