@@ -140,7 +140,7 @@ and arrange a way to participate in the test.
   * 06/02(Wed) - __**[Q&A]**__ ZOOM Q&A session ([whiteboard1](https://github.com/hongseok-yang/graduatePL21/blob/master/Others/21Jun02-QABoard1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL21/blob/master/Others/21Jun02-QABoard2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL21/blob/master/Others/21Jun02-QABoard3.png)).
 * 06/02-06/09 - Continuation in a Functional Language (Ch12). 
   * Watch two videos: ([video1](https://youtu.be/SLeCgK7FHmk), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/Nov30Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/Nov30Board2.png)) and ([video2](https://youtu.be/st5Ng34hieE), [whiteboard1](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/Dec2Board1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/Dec2Board2.png), [whiteboard3](https://github.com/hongseok-yang/graduatePL20/blob/master/Lectures/Lecture11/Dec2Board3.png)).
-  * 06/09(Wed) - __**[Q&A]**__ ZOOM Q&A session.
+  * 06/09(Wed) - __**[Q&A]**__ ZOOM Q&A session ([whiteboard1](https://github.com/hongseok-yang/graduatePL21/blob/master/Others/21Jun09-QABoard1.png), [whiteboard2](https://github.com/hongseok-yang/graduatePL21/blob/master/Others/21Jun09-QABoard2.png)).
 * 06/14(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch10, Ch11, and Ch12.
 * 06/16(Wed) - __**NO ZOOM MEETING.**__ Final Exam Period.
 
